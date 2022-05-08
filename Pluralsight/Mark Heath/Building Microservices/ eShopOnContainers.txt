@@ -1,0 +1,1 @@
+https://github.com/dotnet-architecture/eShopOnContainers/tree/08d3a2b85c9dc8a5022adcd0366e892c7e792bd4
