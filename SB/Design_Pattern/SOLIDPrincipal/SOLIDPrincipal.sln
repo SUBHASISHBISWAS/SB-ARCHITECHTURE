@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLIDPrincipal", "SOLIDPrincipal\SOLIDPrincipal.csproj", "{A81C77F2-FEDF-405D-9084-1620C710DAB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A81C77F2-FEDF-405D-9084-1620C710DAB9}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{A81C77F2-FEDF-405D-9084-1620C710DAB9}.Debug|anycpu.Build.0 = Debug|anycpu
+		{A81C77F2-FEDF-405D-9084-1620C710DAB9}.Release|anycpu.ActiveCfg = Release|anycpu
+		{A81C77F2-FEDF-405D-9084-1620C710DAB9}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
